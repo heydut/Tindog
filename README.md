@@ -1,1 +1,3 @@
 # tindog
+
+Bootstrap project
