@@ -1,4 +1,3 @@
 # tindog
 
-Bootstrap project
-by Dut
+git test
